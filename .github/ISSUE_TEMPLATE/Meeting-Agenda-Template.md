@@ -9,11 +9,11 @@ assignees: ''
 ## Meeting Details
 
 - **Date/Time:** Month Date, Year @ XX:XXpm UTC / XX:XXpm ET
-- **Location:** [Discord SIG-Build Voice Room](https://discord.gg/wDNAQmatpq)
+- **Location:** [Discord SIG-Operations Voice Room](https://discord.gg/79NRgDuhT4)
 - **Moderator:** TBA
 - **Note Taker** Person
 
-The [SIG-Build Meetings](https://github.com/o3de/sig-build/tree/main/meetings) repo contains the history past calls, including a link to the agenda, recording, notes, and resources.
+The [SIG-Operations Meetings](https://github.com/o3de/sig-operations/tree/main/meetings) repo contains the history past calls, including a link to the agenda, recording, notes, and resources.
 
 ## SIG Updates
 
