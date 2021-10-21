@@ -1,7 +1,7 @@
 ---
 name: 'Meeting Agenda: Create New'
 about: Use this template to create a new meeting agenda.
-title: Proposed SIG-Build meeting agenda for MMMM-DD-YY
+title: Proposed SIG-Operations meeting agenda for MMMM-DD-YY
 labels: mtg-agenda
 assignees: ''
 ---
