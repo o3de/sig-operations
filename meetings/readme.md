@@ -26,6 +26,7 @@ Below is a list of all prior completed meetings and related resources.
 | ---- | ---------- | ---- | ------- | ----- | ----- | ---- |
 | 0001 | 2021-07-15 | 2100 UTC | n/a | n/a | n/a | n/a |
 | 0002 | 2021-07-22 | 2100 UTC | n/a | n/a | [Link](notes/sig-operations-20210722.md) | n/a |
+| 0003 | 2021-10-21 | 2100 UTC | n/a | n/a | [Link](notes/sig-operations-20211021.md) | n/a |
 
 # General Resources
 
