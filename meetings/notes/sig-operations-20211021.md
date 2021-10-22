@@ -29,7 +29,7 @@
 
 Future Meetings:
 * Aim to hold more regular meetings.
-* Vote is to keep every other Thursday 2pm for now
+* Vote is to keep every Thursday 2pm PT/5PM ET/9PM UTC for now
 
 Public Assets for Download
 * Where can we store assets?
@@ -52,7 +52,7 @@ YouTube Channel Update (URL)
 Q: Can we change the url to get a vanity url for the You Tube Channel?
 - We do have one but it only shows on certain routes: https://www.youtube.com/c/Open3DEngine. Seems to be YouTube issue as to when channel name vs id is used.
 Q: Do we use the vanity url in docs and other places we own?
-- Unsure, buy seems so
+- Seems so, should cut issues for places where we are inconsistent.
 
 
 Branding Kit
