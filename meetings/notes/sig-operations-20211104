@@ -1,0 +1,54 @@
+## Meeting Details
+
+- **Date/Time:** November 4, 2021 @ 2pm PST
+- **Location:** [Discord SIG-Operations Voice Room](https://discord.gg/79NRgDuhT4)
+- **Moderator:** NA
+- **Note Taker** Finite_State
+
+Attendees:
+
+stramer [Amazon]
+JT [SCB_GameDesign]
+Finite_State
+
+## Meeting Agenda
+
+- Potential issue discovered with Discord audio and video sharing.  Refer to thread `How to improve Discord screen...` in Discord channel #sig-ui-ux.
+
+## Action Items
+
+Investigate server default streaming settings.
+
+Action Items for SIG maintainers:
+
+**Open PRs**
+Maintainer promotion template updates
+New meeting agenda template updates
+Meeting notes
+
+## Open Discussion Items
+
+**Charter Updates**
+SIG Charter as its mostly empty in this repro. This makes it hard to understand what is the ownership and responsibilities of sig-operations. Propose we start the process of updating sig-operations charter.
+
+**Website Ownership**
+Ownership of the o3de.org website and if sig-operations is responsible for any pieces. This is cross-cutting from sig-security about who is responsible for the security and frameworks used to host content.
+
+**RFC Archiving**
+Process for RFC archiving, if a responsibility for sig-operations or a process for sig-operations to own (due to lack of charter unclear if operations is responsible SIG for this). Problem: most SIGs are archiving RFCs locally in their repros which makes discovery hard. RFCs are also not being archived consistently. What processes should we be following? What should we be doing with https://github.com/o3de/rfcs? What should be the communication policy when RFCs are published, moved to final comment and accepted by a SIG?
+
+**Automation of review and merge management on Github repos**
+c/o @Stramer
+
+We have a problem with community reviewing that's currently seriously affecting docs and will affect engineering eventually. Infrastructure issue with GitHub, caused between https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/approving-a-pull-request-with-required-reviews (PRs with required write/admin reviewers) and https://docs.github.com/en/organizations/organizing-members-into-teams/managing-code-review-assignment-for-your-team (round-robin assignment by org team). Codeowners must have WRITE permissions (https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners) which we cannot give to community memebers.
+
+Summary:
+
+Nobody who is a community reviewer can ever be auto-assigned, which is debatably an issue.
+Nobody who is a community reviewer can get a green check to approve merge, meaning 2 write/admin privs MUST green check to pass.
+
+**Abandoned issues**
+Community member wondered if we should be autoclosing abandoned issues in GitHub, as with other open source projects?
+
+**Sig maintainers**
+Propose some maintainers for the SIG as none exist it seems.
