@@ -29,7 +29,7 @@ Below is a list of all prior completed meetings and related resources.
 | 0003 | 2021-10-21 | 2100 UTC | n/a | n/a | [Link](notes/sig-operations-20211021.md) | n/a |
 | 0004 | 2021-11-04 | 2100 UTC | [Link](https://github.com/o3de/sig-operations/issues/24) | n/a | [Link](notes/sig-operations-20211104.md) | n/a |
 | 0005 | 2021-11-11 | 2100 UTC | [Link](https://github.com/o3de/sig-operations/issues/26) | n/a | [Link](notes/sig-operations-20211111.md) | n/a |
-| 0006 | 2021-11-18 | 2100 UTC | n/a | n/a | n/a | n/a |
+| 0006 | 2021-11-18 | 2100 UTC | [Link](https://github.com/o3de/sig-operations/issues/30) | n/a | n/a | n/a |
 
 # General Resources
 
